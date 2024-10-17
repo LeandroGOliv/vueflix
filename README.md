@@ -1,17 +1,13 @@
 # VUEFLIX
 
-Projeto da trilha Vue.js Básico
+Projeto Vue.js Básico
 
 ## Objetivo
 
-O objetivo desse projeto é que o aluno implemente as funcionalidades utilizando o conhecimento de Vue.js obtido na trilha.
+O objetivo desse projeto é que o aluno implemente as funcionalidades utilizando o conhecimento de Vue.js.
 
 As informações inseridas serão copiadas diretamente do site
 https://www.themoviedb.org/
-
-## IDE Recomendada
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
 ## Setup
 
